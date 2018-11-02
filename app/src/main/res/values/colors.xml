@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#68CA93</color>
+    <color name="colorPrimaryDark">#68CA93</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="poke_title_color">#5FAD76</color>
+    <color name="text_color">#569361</color>
+</resources>
