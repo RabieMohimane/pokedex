@@ -49,6 +49,7 @@
             android:fontFamily="@font/abeezee"
             android:text='@{poke.name,default="pikachu"}'
             android:textAllCaps="true"
+            android:gravity="center"
             android:textSize="14sp"
             android:textColor="@color/text_color"
             android:textStyle="bold"
